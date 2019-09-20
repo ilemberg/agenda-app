@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/agenda-app/static/css/main.b100e6da.chunk.css",
-    "main.js": "/agenda-app/static/js/main.d2d0a60e.chunk.js",
-    "main.js.map": "/agenda-app/static/js/main.d2d0a60e.chunk.js.map",
+    "main.js": "/agenda-app/static/js/main.b5c3b527.chunk.js",
+    "main.js.map": "/agenda-app/static/js/main.b5c3b527.chunk.js.map",
     "runtime-main.js": "/agenda-app/static/js/runtime-main.8463842f.js",
     "runtime-main.js.map": "/agenda-app/static/js/runtime-main.8463842f.js.map",
-    "static/js/2.9405f3f8.chunk.js": "/agenda-app/static/js/2.9405f3f8.chunk.js",
-    "static/js/2.9405f3f8.chunk.js.map": "/agenda-app/static/js/2.9405f3f8.chunk.js.map",
+    "static/js/2.9de5af3f.chunk.js": "/agenda-app/static/js/2.9de5af3f.chunk.js",
+    "static/js/2.9de5af3f.chunk.js.map": "/agenda-app/static/js/2.9de5af3f.chunk.js.map",
     "index.html": "/agenda-app/index.html",
-    "precache-manifest.2b44bbd6ff3aa7e63c5ce3a757b13dc9.js": "/agenda-app/precache-manifest.2b44bbd6ff3aa7e63c5ce3a757b13dc9.js",
+    "precache-manifest.db04ae643d6c6df3e1d03167b1fe0938.js": "/agenda-app/precache-manifest.db04ae643d6c6df3e1d03167b1fe0938.js",
     "service-worker.js": "/agenda-app/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/agenda-app/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/agenda-app/static/media/logo.25bf045c.svg"
